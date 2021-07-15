@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">DiceRoll</string>
+    <string name="app_name">Lucky Roll</string>
+    <string name="rule">RULE: Get a sum of 6 on both dice to get out of jail</string>
 </resources>
